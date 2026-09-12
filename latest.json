@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "downloadUrl": "https://drive.google.com/file/d/1ODQMPVWDZF0E1i5RfSZoH1nBSmS2Tlke/view?usp=sharing",
-  "downloadUrlMac": "https://drive.google.com/file/d/1ODQMPVWDZF0E1i5RfSZoH1nBSmS2Tlke/view?usp=sharing",
-  "downloadUrlWin": "https://drive.google.com/file/d/16kHlPEg-f6s8PWG5d1Jd9kAFMFbG0a6o/view?usp=sharing",
-  "notes": "商品の特徴（シリーズ・機種名・容量・カラー）を出品後に自動で設定するようになりました。Yahoo!フリマの再出品が通らない不具合を修正。売却日に取引画面の購入日時を使うようにしました。Telegramから受取評価と発送のご連絡ができます。"
+  "version": "1.5.0",
+  "downloadUrl": "https://drive.google.com/file/d/18TyGtXhnUBikwrmi5N_bqO_wem4cCrFl/view?usp=sharing",
+  "downloadUrlMac": "https://drive.google.com/file/d/18TyGtXhnUBikwrmi5N_bqO_wem4cCrFl/view?usp=sharing",
+  "downloadUrlWin": "https://drive.google.com/file/d/1v1hfb8tsM1F7Ucp0TW_breyPhaAs6pBr/view?usp=sharing",
+  "notes": "商品画像が再出品のたびにぼやける不具合を修正しました。出品した時の画像がそのまま保たれます。あわせて、カテゴリー選択や配送方法の設定が失敗することがあった点、商品の特徴が空欄になることがあった点を直し、調子が悪いときにTelegramでお知らせする仕組みを追加しました。"
 }
